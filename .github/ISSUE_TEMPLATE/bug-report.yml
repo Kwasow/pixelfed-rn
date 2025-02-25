@@ -83,6 +83,7 @@ body:
       description: I searched for similar issues in the repository.
       options:
         - 'Yes'
+        - 'No'
     validations:
       required: true
 
