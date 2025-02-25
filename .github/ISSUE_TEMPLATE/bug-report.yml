@@ -82,7 +82,6 @@ body:
       label: Acknowledgements
       description: I searched for similar issues in the repository.
       options:
-        - 'No'
         - 'Yes'
     validations:
       required: true
